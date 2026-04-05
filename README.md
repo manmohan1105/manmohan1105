@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @manmohan1105
-- 👀 I’m interested in Python /Backend Development /Problem solving
-- 🌱 I’m currently learning Django developement
-- 💞️ I’m looking for software developement roles
 - 📫 How to reach me sharmamanmohan1105@gmail.com
 
 <!---
